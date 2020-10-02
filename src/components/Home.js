@@ -17,14 +17,14 @@ function Home() {
           <Product
             id="01"
             title="All-new Echo Dot"
-            price="4,499"
+            price={4499}
             image="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonDevices/LEEN/DC-Cards/379x304_Desktop_Card_BE_01._SY304_CB404301999_.jpg"
             rating={5}
           />
           <Product
             id="02"
             title="All-new Fire TV stick"
-            price="3,999"
+            price={3999}
             image="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonDevices/LEEN/DC-Cards/02_379x304_Desktop_Card_SP._SY304_CB404302689_.jpg"
             rating={4}
           />
@@ -33,21 +33,21 @@ function Home() {
           <Product
             id="03"
             title="New Echo Dot with clock"
-            price="5,499"
+            price={5499}
             image="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonDevices/LEEN/DC-Cards/06_379x304_Desktop_Card_GE._SY304_CB404302721_.jpg"
             rating={5}
           />
           <Product
             id="04"
             title="Amazon Smart Plug"
-            price="1,999"
+            price={1999}
             image="https://images-eu.ssl-images-amazon.com/images/G/31/AmazonDevices/LEEN/DC-Cards/07_379x304_Desktop_Card_CR._SY304_CB404302460_.jpg"
             rating={3}
           />
           <Product
             id="05"
             title="Echo Dot (with clock) bundle with Syska 12W LED smart color bulb"
-            price="4,748"
+            price={4748}
             image="https://images-na.ssl-images-amazon.com/images/I/51wppfBjF6L._SL1000_.jpg"
             rating={4}
           />
@@ -56,7 +56,7 @@ function Home() {
           <Product
             id="06"
             title="Buy Work from Home Furniture Online at Amazon India"
-            price="6,500"
+            price={6500}
             image="https://images-eu.ssl-images-amazon.com/images/G/31/IMG19/Furniture/WFH/Header/WFH_1500x350.gif"
             rating={5}
           />
